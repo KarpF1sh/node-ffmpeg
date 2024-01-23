@@ -1,3 +1,6 @@
+##
+Slightly pathced version on this node module to make it work with newer ffmpeg versions
+
 node-ffmpeg
 ===========
 
